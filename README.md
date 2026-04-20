@@ -83,6 +83,11 @@ The feature importance ranking obtained from the XGBoost model shows that:
 - Medical and lifestyle factors such as hypertension and heart disease also contribute to predictions, but to a lesser extent
 - Some categorical features (e.g. gender, work type) have relatively low importance in the final model
 
+<br><br>
+<img width="1022" height="599" alt="image" src="https://github.com/user-attachments/assets/5421971b-e170-4eb7-bb98-04c8d5ebdef5" />
+<br><br>
+
+
 ### 🧠 Key insight
 The model confirms that age and metabolic health indicators are the strongest predictors of stroke risk in this dataset.
 
