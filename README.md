@@ -46,6 +46,9 @@ This makes standard accuracy misleading and requires a different evaluation appr
 
 - Recall: **0.79**
 - Accuracy: **0.70**
+<br><br>
+<img width="543" height="489" alt="image" src="https://github.com/user-attachments/assets/f5e81f27-4098-4187-b971-f4a5e5599dcc" />
+<br><br>
 
 ---
 
